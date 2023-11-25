@@ -1,0 +1,5 @@
+Scrivere un programma che, data l’ascissa x, calcoli il valore dell’ordinata y di una retta avente equazione y = ax + b.
+Il programma deve:
+• Chiedere all'utente di inserire due numeri reali a e b.
+• Chiedere all'utente di inserire il valore dell’ascissa x da tastiera. 
+• Mostrare a video il valore dell’ordinata y.

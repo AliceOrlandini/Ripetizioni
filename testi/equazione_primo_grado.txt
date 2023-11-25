@@ -1,0 +1,5 @@
+Scrivere un programma che calcoli la soluzione di un'equazione di primo grado, avente formulazione ax + b = 0.
+Il programma deve:
+• Chiedere all'utente di inserire due numeri reali a e b con b diverso da 0.
+• Mostrare a video il valore della soluzione x.
+Nota: la soluzione di un'equazione di primo grado è data da x = -b/a.

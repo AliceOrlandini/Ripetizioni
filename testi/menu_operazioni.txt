@@ -1,0 +1,13 @@
+Scrivere un programma che:
+• Mostri a video il seguente menù:
+Menu operazioni:
+1: minimo di tre numeri
+2: massimo di tre numeri
+3: media di tre numeri
+0: esci
+Scelta?
+• Legga da tastiera un numero che rappresenta la scelta dell'utente.
+• Termini se l'utente ha scelto 0.
+• Altrimenti legga da tastiera tre numeri interi, esegua l’operazione richiesta (minimo, massimo o
+media) e mostri a video il risultato. Gestire il caso in cui l'utente inserisca una scelta non valida.
+• Mostri nuovamente il menù finché l'utente non sceglie 0.

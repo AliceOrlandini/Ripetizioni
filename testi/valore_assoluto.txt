@@ -1,0 +1,4 @@
+Scrivere un programma che:
+• Chieda all'utente di inserire un numero intero da tastiera.
+• Mostri a video il valore assoluto di tale numero.
+Nota: il valore assoluto associa ad un numero negativo il numero stesso con segno positivo, a zero associa zero e lascia invariati i numeri positivi.

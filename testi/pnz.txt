@@ -1,0 +1,4 @@
+Scrivere un programma che chieda all'utente di inserire un numero intero da tastiera e: 
+• Mostri a video il carattere 'P' se il numero inserito è maggiore di zero.
+• Mostri a video il carattere 'N' se il numero inserito è minore di zero.
+• Mostri a video il carattere 'Z' se il numero inserito è uguale a zero.

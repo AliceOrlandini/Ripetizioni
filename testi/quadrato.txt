@@ -1,0 +1,9 @@
+Scrivere un programma che:
+• Chieda in ingresso un numero naturale n.
+• Mostri a video un quadrato di n x n asterischi.
+Ad esempio, per n = 5 il programma deve mostrare:
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *

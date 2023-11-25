@@ -1,0 +1,1 @@
+Scrivere un programma che mostri a video il messaggio "Ciao Mondo!".

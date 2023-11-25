@@ -1,0 +1,3 @@
+Scrivere un programma che:
+• Chieda all'utente di inserire un numero intero da tastiera. 
+• Mostri a video il numero moltiplicato per 3.
