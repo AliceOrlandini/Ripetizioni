@@ -10,12 +10,12 @@ Questo repository contiene una raccolta di esercizi utili per le ripetizioni di 
   - `solution_1.java`: file contenente la soluzione dell'esercizio 1 in java.
  
 ## Come utilizzare questa Repository
-1. Scaricare la Repository
+1. Scaricare la Repository:
    - Fare clic sul pulsante verde "Code" nella parte superiore della pagina.
    - Selezionare "Download ZIP".
    - Estrarre il contenuto del file ZIP scaricato.
-2. Leggere il testo dell'esercizio
-3. Verificare la soluzione
+2. Leggere il testo dell'esercizio e risolverlo.
+3. Verificare la soluzione.
 
 ## Contribuire
 Siete invitati a contribuire a questa raccolta di esercizi. Se avete nuovi esercizi da aggiungere o miglioramenti da apportare alle soluzioni esistenti, inviate una pull request.
